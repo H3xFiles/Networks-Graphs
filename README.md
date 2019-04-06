@@ -22,6 +22,7 @@
 - https://mathigon.org/course/graphs-and-networks/introduction
 - https://www.ebi.ac.uk/training/online/course/network-analysis-protein-interaction-data-introduction/introduction-graph-theory
 - http://web.stanford.edu/class/cs224w/
+- https://www.coursera.org/learn/graphs?action=enroll
 
 ### Articles:
 - https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/
