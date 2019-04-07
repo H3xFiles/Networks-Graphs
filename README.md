@@ -23,6 +23,7 @@
 - https://www.ebi.ac.uk/training/online/course/network-analysis-protein-interaction-data-introduction/introduction-graph-theory
 - http://web.stanford.edu/class/cs224w/
 - https://www.coursera.org/learn/graphs?action=enroll
+- [Course Graph Theory Professor Sarada Herke](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg)
 
 ### Articles:
 - https://www.analyticsvidhya.com/blog/2018/04/introduction-to-graph-theory-network-analysis-python-codes/
